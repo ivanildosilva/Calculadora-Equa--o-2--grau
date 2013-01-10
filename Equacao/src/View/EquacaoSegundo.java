@@ -92,7 +92,7 @@ public class EquacaoSegundo extends javax.swing.JFrame {
         btnlimpar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Calculo Equação 2º Grau");
+        setTitle("Calculo Equação - 2º Grau");
         getContentPane().setLayout(null);
 
         txta.addActionListener(new java.awt.event.ActionListener() {
@@ -234,7 +234,7 @@ public class EquacaoSegundo extends javax.swing.JFrame {
             }
         });
         getContentPane().add(btnlimpar);
-        btnlimpar.setBounds(270, 210, 73, 21);
+        btnlimpar.setBounds(270, 210, 73, 23);
 
         java.awt.Dimension screenSize = java.awt.Toolkit.getDefaultToolkit().getScreenSize();
         setBounds((screenSize.width-365)/2, (screenSize.height-278)/2, 365, 278);
