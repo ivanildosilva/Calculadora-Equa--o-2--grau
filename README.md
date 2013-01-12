@@ -1,1 +1,1 @@
-Calculadora de equação do  segundo grau em java/swing
+calculado equacao 2 grau com java Swing
